@@ -16,6 +16,6 @@ iv. haarcascade_frontface_default.xml
  
  You can download this file through my repo or just go to https://github.com/opencv/opencv/tree/master/data/haarcascades to get such haarcascade files.
  
- You can follw my work in linkedin.com/in/pankaj-sah-b7aa39186/ just connect with me ;)
+ You can follw my work in https://linkedin.com/in/pankaj-sah-b7aa39186/ just connect with me ;)
  
 -------------------------------------- Thank You --------------------------------
